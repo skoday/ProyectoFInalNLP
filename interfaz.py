@@ -3,7 +3,7 @@ import requests
 
 st.title("Chat Conceptos Matematicos")
 
-st.write("Pregunta lo conceptos sobre aritmetica, algebra lineal, probabilidad, calculo y geometria analitica")
+st.write("Pregunta lo conceptos fundamentales sobre aritmetica, algebra lineal, probabilidad, calculo y geometria analitica")
 
 # Función para obtener la respuesta de la API
 def obtener_respuesta(pregunta):
